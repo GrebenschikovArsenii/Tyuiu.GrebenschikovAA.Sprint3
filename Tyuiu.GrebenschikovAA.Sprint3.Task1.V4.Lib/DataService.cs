@@ -16,5 +16,4 @@ namespace Tyuiu.GrebenschikovAA.Sprint3.Task1.V4.Lib
             return Math.Round(s, 3);
         }
     }
-    }
 }
