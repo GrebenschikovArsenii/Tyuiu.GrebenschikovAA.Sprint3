@@ -1,4 +1,4 @@
-namespace Tyuiu.GrebenschikovAA.Sprint3.Task7.V27
+namespace Tyuiu.GrebenschikovAA.Sprint3.Task7.V27.Test
 {
     [TestClass]
     public class UnitTest1
