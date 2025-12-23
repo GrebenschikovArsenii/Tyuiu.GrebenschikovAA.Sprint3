@@ -17,10 +17,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.GrebenschikovAA.Sprint3.Task2.V10.Lib\Tyuiu.GrebenschikovAA.Sprint3.Task2.V10.Lib.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
   </ItemGroup>
 
