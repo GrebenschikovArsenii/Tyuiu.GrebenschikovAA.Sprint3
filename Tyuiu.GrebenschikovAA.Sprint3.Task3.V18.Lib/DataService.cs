@@ -10,7 +10,7 @@ namespace Tyuiu.GrebenschikovAA.Sprint3.Task3.V18.Lib
             foreach (char c in value)
             {
                 char[] nums = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
-                if (nums.Contains(c)) value = value.Replace(c, 'n');
+                if (nums.Contains(c)) value = value.Replace(c, item);
             }
             return value;
         }
