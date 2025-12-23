@@ -10,7 +10,7 @@ namespace Tyuiu.GrebenschikovAA.Sprint3.Task1.V4.Lib
             double s = 0;
             while (i <= stopValue)
             {
-                s += Math.Pow((1.0 / i), i);
+                s += Math.Pow((1.0 / i), 2);
                 i++;
             }
             return Math.Round(s, 3);
